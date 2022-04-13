@@ -10,18 +10,27 @@ Looking at [what I do on a given school day](#a-typical-morning-in-dublin) will 
 but first, here's what my home university looks like without the rain--
 !["this was probably taken before a dainpour"](md_photos/TCD.png)
 
+It's so nice to be in San Diego where rain is not the norm as I love to be outside (which isn't always as fun in the rain).
+
+Beyond the outdoors, I'll take you through a normal morning so you can have a feel as to what I get up to
+
 # A Typical Morning in Dublin
 
 # Schedule
 
-- 08:00 wake-up
+- 7:00 Wake-up
     > ~~Go back to sleep?~~ (no)
+- 7:15 To for a run
+- 7:45 Take a shower and have breakfast
+- 8:05 Head to campus (can't be late)
 - 08:30 Head to tutorial
     - *Museum Building - Discrete*
 - 10:00 Work on Computer [Assignments](#assignments) in the Hamilton Computer Labs
 - 10:50 Go to the Sports Centre for a swim
 - 11:30 Work on [Math](#math) in the [Ussher](ussher.md)
 - 12:00 Meet up with friends at the Buttery
+...
+- 9:00 Prinks at Tia's
 
 *Map to guide me around my day*
 ![Map of Campus](md_photos/map.png)
