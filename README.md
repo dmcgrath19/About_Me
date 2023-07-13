@@ -7,4 +7,4 @@
    1. [x] [Command Line](https://github.com/dmcgrath19/CSE110_Lab1/tree/add-read-me)
    2. [x] [VSCode UI](https://github.com/dmcgrath19/CSE110_Lab1/tree/new_VSCode_branch)
 3. Using Markdown 
-   - [My Webpage](https://dmcgrath19.github.io/CSE110_Lab1/)
+   - [My Webpage](https://dmcgrath19.github.io/About_Me/)
